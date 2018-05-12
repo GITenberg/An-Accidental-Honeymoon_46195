@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43652'
     url: http://www.gutenberg.org/2009/agents/43652
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46195#An-Accidental-Honeymoon
 gutenberg_issued: '2014-07-05'
 gutenberg_type: Text
 identifiers:
