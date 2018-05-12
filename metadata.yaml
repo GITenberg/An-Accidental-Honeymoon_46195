@@ -1,0 +1,39 @@
+_repo: An-Accidental-Honeymoon_46195
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Gage, George W.
+    alias: Gage, G. W.
+    gutenberg_agent_id: '32544'
+    url: http://www.gutenberg.org/2009/agents/32544
+  - agent_name: Holloway, Edward Stratton
+    birthdate: 1859
+    deathdate: 1939
+    gutenberg_agent_id: '31801'
+    url: http://www.gutenberg.org/2009/agents/31801
+covers:
+- cover_type: archival
+  image_path: 46195-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Barron, Edward
+    alias: Potter, David
+    birthdate: 1874
+    gutenberg_agent_id: '43652'
+    url: http://www.gutenberg.org/2009/agents/43652
+description: ''
+gutenberg_issued: '2014-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Social status -- Fiction'
+- !lcsh 'Maryland -- Fiction'
+title: An Accidental Honeymoon
+url: http://www.gutenberg.org/ebooks/46195
